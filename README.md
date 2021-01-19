@@ -1,6 +1,6 @@
-# harmony-dashboard
+# BitFinance - Explorer Dashboard
 
-The dashboard for harmony blockchain displaying interesting metrics.
+The Harmony.one based dashboard for BitFinance blockchain displaying interesting metrics. 
 
 ## Build Setup
 
