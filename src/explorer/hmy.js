@@ -15,7 +15,7 @@ const hmySDK = new Harmony(
     chainType: ChainType.Harmony,
     // chainType set to HmyLocal
     chainId:
-      SDK_NODE !== 'https://api.s0.b.hmny.io'
+      SDK_NODE !== 'https://api.s0.b.bitfinance.solutions'
         ? ChainID.HmyMainnet
         : ChainID.HmyTestnet,
     shardID,
